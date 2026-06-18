@@ -1,4 +1,4 @@
-# Assessment 2 — IoT Sensor Data Trend Prediction
+# IoT Sensor Data Trend Prediction
 
 ## Dataset
 **Air Quality UCI** — Hourly averaged sensor readings from a chemical multisensor device deployed at road level in an Italian city (March 2004 – February 2005).
